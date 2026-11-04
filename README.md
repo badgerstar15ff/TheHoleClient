@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" alt="TheHoleClient" width="160">
+</p>
 <h1 align="center">TheHoleClient</h1>
 
 <p align="center">
